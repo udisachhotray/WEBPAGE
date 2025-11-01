@@ -1,0 +1,1 @@
+I’ve created an HTML dashboard that allows me to input values and send them to my IoT platform (iRobo Ninja). It’s meant to write or upload data to the platform, but it’s not working properly right now.
